@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/ca.odell.glazedlists_1.9.0.v201303080712.jar"/>
+	<classpathentry kind="lib" path="lib/ca.odell.glazedlists.source_1.9.0.v201303080712.jar"/>
+	<classpathentry kind="lib" path="lib/glazedlists-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.codec_1.6.0.v201305230611.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.poi_3.9.0.v201405241750.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.poi.source_3.9.0.v201405241750.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.cwt_1.0.0.201605312033.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.cdatetime_1.0.0.201605312033.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.core_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.core.source_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.examples_1.5.0.201703192131.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.e4_1.0.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.e4.source_1.0.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.glazedlists_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.glazedlists.source_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.nebula_1.0.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.nebula.source_1.0.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.poi_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.nattable.extension.poi.source_1.4.0.201606011907.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.richtext_1.0.0.201605312033.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.nebula.widgets.richtext.source_1.0.0.201605312033.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
